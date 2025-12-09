@@ -1,7 +1,7 @@
 # Bio Impedance and Bio Potential
 
-<a href="..\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
-  <img src="..\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
+<a href=".\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
+  <img src=".\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
 </a>
 
 In the BIOZ and ECG MediBrick we use the MAXIM [MAX30001G](datasheets/max30001g.pdf) analog front end (AFE). It's a modern IC with a "waver level packaging" foot print which makes is difficult to solder and requires precise PCB manufacturing.
@@ -76,6 +76,9 @@ These are the links to the OnShape Design files, which you can edit and modify i
   - [Brick Bottom](https://cad.onshape.com/documents/92ad78475e8f0b17ff5e260b/w/88a02abbcb12cdbd4d9de3ad/e/fb79ca58ad2b6a0298e9d1b6)
   - [Brick Assembly](https://cad.onshape.com/documents/11cbfe9c3c739b6e8ecbf3d7/w/989b564ecd7f6d069e643ac0/e/85542f706be8cc7554218e8d)
   - [Impedance Potential Plate](https://cad.onshape.com/documents/4b23bdc1fe41aa5490b46d9c/w/fd4737f6a1ca7fbcd3b1d7f7/e/89122d5ddac798ebf451ad60)
+
+## Assembly Instructions &#128736;
+[Instructions](./assembly.md) 
 
 ## MAX30001G Design
 
