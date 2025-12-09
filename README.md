@@ -16,7 +16,7 @@ The MAX30001G can measure:
   - GSR (galvanic skin response, stress level)
   - EDA (electro dermal activity)
 
-Here [MAX3001G](MAX30001G.md) we summary capabilities from the datasheet.
+In [MAX3001G](MAX30001G.md) we summary capabilities from the datasheet.
 
 For general consideration of bio impedance design and safety: [Analog Devices: Bio-Impedance Circuit Design for Body Worn Systems"](https://www.analog.com/en/resources/analog-dialogue/articles/bioimpedance-circuit-design-challenges.html)
 
