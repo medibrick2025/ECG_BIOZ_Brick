@@ -1,7 +1,7 @@
 # Bio Impedance and Bio Potential
 
-<a href="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank">
-  <img src="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" width="500">
+<a href="./assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
+  <img src="./assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
 </a>
 
 In the BIOZ and ECG MediBrick we use the MAXIM [MAX30001G](datasheets/max30001g.pdf) analog front end (AFE). It's a modern IC with a "waver level packaging" foot print which makes is difficult to solder and requires precise PCB manufacturing.
