@@ -1,7 +1,7 @@
 # Bio Impedance and Bio Potential
 
-<a href=".\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
-  <img src=".\assets\pictures\ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
+<a href="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
+  <img src="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
 </a>
 
 In the BIOZ and ECG MediBrick we use the MAXIM [MAX30001G](datasheets/max30001g.pdf) analog front end (AFE). It's a modern IC with a "waver level packaging" foot print which makes is difficult to solder and requires precise PCB manufacturing.
@@ -16,7 +16,8 @@ The MAX30001G can measure:
   - GSR (galvanic skin response, stress level)
   - EDA (electro dermal activity)
 
-In [MAX3001G](MAX30001G.md) we summary capabilities from the datasheet.
+In [MAX3001G](./docs/chips/MAX30001/MAX30001G.md) we summary capabilities from the datasheet.
+
 
 For general consideration of bio impedance design and safety: [Analog Devices: Bio-Impedance Circuit Design for Body Worn Systems"](https://www.analog.com/en/resources/analog-dialogue/articles/bioimpedance-circuit-design-challenges.html)
 
@@ -53,18 +54,18 @@ Not available yet.
 
 ## Electronics Design &#128268;
 
-<a href="Impedance_Potential_schematic.pdf" target="_blank">
-  <img src="Impedance_Potential_schematic.png" style="width: 400px;">
+<a href="./hardware/schematic/Impedance_Potential_schematic.pdf" target="_blank">
+  <img src="./hardware/schematic/Impedance_Potential_schematic.png" style="width: 400px;">
 </a>
-<a href="Impedance_Potential_board.pdf" target="_blank">
-  <img src="Impedance_Potential_board.png" style="width: 300px;">
+<a href="./hardware/layout/Impedance_Potential_board.pdf" target="_blank">
+  <img src="./hardware/layout/Impedance_Potential_board.png" style="width: 300px;">
 </a>
 
 The following files are needed for PCB manufacturing and assembly.
 
-- [Bill of Materials](Impedance_Potential_BOM.xlsx)
-- [Manufacturing Files](Impedance_Potential_2024-09-12.zip)
-- [Pick and Place](Impedance_Potential_PnP.xlsx)
+- [Bill of Materials](./hardware/bom/Impedance_Potential_BOM.xlsx)
+- [Manufacturing Files](./hardware/manufacturing/Impedance_Potential_2024-09-12.zip)
+- [Pick and Place](./hardware/pick_and_place/Impedance_Potential_PnP.xlsx)
 
 The Bill of Materials is formatted so that its compatible with PCBWay submissions.
 
@@ -78,14 +79,14 @@ These are the links to the OnShape Design files, which you can edit and modify i
   - [Impedance Potential Plate](https://cad.onshape.com/documents/4b23bdc1fe41aa5490b46d9c/w/fd4737f6a1ca7fbcd3b1d7f7/e/89122d5ddac798ebf451ad60)
 
 ## Assembly Instructions &#128736;
-[Instructions](./assembly.md) 
+[Instructions](./docs/assembly.md)
 
 ## MAX30001G Design
 
 ## Block Diagram of MAX 30001G
 
-<a href="assets/Blockdiagram.png" target="_blank">
-  <img src="assets/Blockdiagram.png" style="width: 800px;">
+<a href="./docs/images/system/Blockdiagram.png" target="_blank">
+  <img src="./docs/images/system/Blockdiagram.png" style="width: 800px;">
 </a>
 
 ## External Configuration Options
@@ -152,4 +153,10 @@ R_VCM     | 0 Ohm,10k,200k| 10k protocentral, evaluation kit has buffer driver c
 R_VCM-B   | 51k, none     | none protocentral & evaluation kit
 C_VCM-B   | 47nF, none    | none protocentral & evaluation kit, 47nF datasheet
 VMC_UNBAL | open          | 
+
+## Education Background
+
+This section provides the theoretical and physiological background related to ECG and bioimpedance measurements
+
+- [ECG Education Background](./docs/ECG_Education_Background/README.md)
 
