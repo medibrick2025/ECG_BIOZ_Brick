@@ -1,7 +1,7 @@
 # Bio Impedance and Bio Potential
 
-<a href="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank" style="float: right; margin-left: 20px;">
-  <img src="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 500px;">
+<a href="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank">
+  <img src="./docs/images/system/ECG_BIOZ_Front_Closed_without_Plugins.jpg" width="500">
 </a>
 
 In the BIOZ and ECG MediBrick we use the MAXIM [MAX30001G](datasheets/max30001g.pdf) analog front end (AFE). It's a modern IC with a "waver level packaging" foot print which makes is difficult to solder and requires precise PCB manufacturing.
@@ -54,11 +54,12 @@ Not available yet.
 
 ## Electronics Design &#128268;
 
-<a href="./hardware/schematic/Impedance_Potential_schematic.pdf" target="_blank">
-  <img src="./hardware/schematic/Impedance_Potential_schematic.png" style="width: 400px;">
+<a href="./hardware/schemaric/Impedance_Potential_schematic.pdf" target="_blank">
+  <img src="./hardware/schemaric/Impedance_Potential_schematic.png" width="400">
 </a>
+
 <a href="./hardware/layout/Impedance_Potential_board.pdf" target="_blank">
-  <img src="./hardware/layout/Impedance_Potential_board.png" style="width: 300px;">
+  <img src="./hardware/layout/Impedance_Potential_board.png" width="300">
 </a>
 
 The following files are needed for PCB manufacturing and assembly.
@@ -91,8 +92,8 @@ These are the links to the OnShape Design files, which you can edit and modify i
 
 ## External Configuration Options
 
-<a href="Design.svg" target="_blank">
-  <img src="Design.svg" style="width: 500px;">
+<a href="./Design.svg" target="_blank">
+  <img src="./Design.svg" width="500">
 </a>
 
 We have the following external connectors:
