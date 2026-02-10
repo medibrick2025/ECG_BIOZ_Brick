@@ -79,7 +79,7 @@ This delay (about 0.1 second) is crucial: it gives the ventricles time to fill w
 
 After the AV node, the impulse travels rapidly down the **Bundle of His** (a specialized conducting fiber tract) which splits into **right and left bundle branches** running along the interventricular septum. These branches further divide into an extensive network of **Purkinje fibers** that spread throughout the walls of the ventricles. The Purkinje network ensures the electrical signal is delivered quickly and nearly simultaneously to left and right ventricles, especially to the ventricular muscle cells from the inner wall outward.
 
-![Block diagram of an ECG system](./images/img016_ecg_system_block_diagram.jpg)
+![Activation currents and propagation in cardiac tissue](./images/img0C_activation_currents_cardiac_tissue.jpg)
 
 _Figure C Current activation and propagation in cardiac tissue_
 
@@ -111,7 +111,7 @@ Thus, polarization (resting state), depolarization (active contraction), and rep
 
 # Section 3: ECG (Electrocardiogram) Principles
 
-![Block diagram of an ECG system](./images/img016_ecg_system_block_diagram.jpg)
+![Block diagram of an ECG system](./images/img011_ecg_system_block_diagram.jpg)
 
 _Figure 11_ block diagram of an ECG setup
 
@@ -129,9 +129,13 @@ viewpoint or angle from which we observe the heart’s electrical activity. Six 
 
 𝑉<sub>𝐼</sub> = 𝑉<sub>𝐿𝐴</sub> − 𝑉<sub>𝑅𝐴</sub>.)
 
+![Electrode–skin interface equivalent circuit](./images/img012_electrode_skin_interface.jpg)
+
 _Figure 12_
 
 - - - The **augmented limb leads (aVR, aVL, aVF)** are _unipolar_ leads that use one limb electrode as the “exploring” electrode and combine the others as a reference (ground). They effectively look at the heart from the direction of the right arm (aVR), left arm (aVL), and left foot (aVF). Together with leads I–III, these six leads examine the heart’s electrical projections on the frontal (vertical) plane.
+
+![Limb lead placements and configurations](./images/img013_limb_leads_configuration.jpg)
 
 _Figure 13_ lead placements and configurations
 
@@ -145,11 +149,15 @@ Each lead “sees” the heart’s electrical dipole from a different angle, so 
 
 P wave is small (0.1 second or less in duration), ǪRS is sharp and narrow (around 0.08–0.10 s in healthy hearts), and T wave is broader. The intervals between these, such as the PR interval (start of P to start of ǪRS, ~0.12–0.20 s) and the ǪT interval (start of ǪRS to end of T, ~0.35–0.44 s), are important indicators of electrical function and are carefully measured on an ECG. These values correspond to how long it takes the wave to travel through the AV node (PR interval)
 
+![Normal ECG components and intervals](./images/img014_normal_ecg_components.jpg)
+
 _Figure 14 Normal ECG_
 
 or how long the ventricles remain depolarized before repolarizing (ǪT interval), etc.
 
 An example of a **normal ECG** tracing is shown in _Figure 14 \[Fig 14\]_, which would display the regular P-ǪRS-T sequence for a healthy heartbeat. In contrast, _Figure 15 \[Fig 15\]_ illustrates an **abnormal ECG**, such as one might
+
+![Abnormal ECG under pathological conditions](./images/img015_abnormal_ecg.jpg)
 
 _Figure 15 Abnormal ECG_
 
@@ -160,6 +168,8 @@ Deviations in the waveform can signal various issues. For instance, an ST segmen
 sign of an acute myocardial infarction (heart attack). Extra P waves or missing ǪRS complexes might indicate heart block (an issue in conduction through the AV node). Very rapid, irregular oscillations instead of clear P waves could indicate atrial fibrillation, etc. Clinicians are trained to recognize these patterns. When interpreted properly, the ECG can detect a wide range of heart conditions – from arrhythmias and conduction blocks to electrolyte imbalances and effects of medications.
 
 Table of different cardiac issues detected by eceg
+
+![Common ECG patterns of cardiac arrhythmias](./images/img016_common_cardiac_arrhythmias_ecg.jpg)
 
 **Uses and Limitations of ECG:** The ECG is a fundamental tool in both clinical and research settings for monitoring heart health. It is noninvasive and inexpensive, making it ideal for initial evaluations (e.g. in emergency rooms or routine checkups). Continuous ECG monitoring is standard in many hospital settings for patients with cardiac risk. However, it’s important to recognize its limitations. The ECG provides an indirect picture of the heart’s electrical activity and can sometimes miss or misidentify conditions. For example, criteria for detecting **left ventricular hypertrophy (LVH)** (thickening of the heart’s left ventricle) on ECG have **high**
 
