@@ -86,14 +86,14 @@ These are the links to the OnShape Design files, which you can edit and modify i
 
 ## Block Diagram of MAX 30001G
 
-<a href="./docs/images/system/Blockdiagram.png" target="_blank">
-  <img src="./docs/images/system/Blockdiagram.png" style="width: 800px;">
+<a href="./assets/Blockdiagram.png" target="_blank">
+  <img src="./assets/Blockdiagram.png" style="width: 800px;">
 </a>
 
 ## External Configuration Options
 
-<a href="./Design.svg" target="_blank">
-  <img src="./Design.svg" width="500">
+<a href="./docs/images/system/Design.svg" target="_blank">
+  <img src="./docs/images/system/Design.svg" width="500">
 </a>
 
 We have the following external connectors:
