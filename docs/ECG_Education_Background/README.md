@@ -99,6 +99,8 @@ each in conduction
 
 Fig 8 Fig 9
 
+Source From:University of Arizona CMM410 Fall 2025 ( Lonnie Lybarger, Haley O'Brien)
+
 **Electrical Waveforms in the Heart:** As the cardiac cells depolarize and repolarize in sequence, the heart produces characteristic electrical waves. The progression is as follows:
 
 ![ECG waveform versus action potential](./images/img015_ecg_waveform_vs_action_potential.jpg)
@@ -161,6 +163,8 @@ An example of a **normal ECG** tracing is shown in _Figure 14 \[Fig 14\]_, which
 
 _Figure 15 Abnormal ECG_
 
+Source From: ( university of Arizona BSM441 Fall 2025 ( Russell Witte, Srinivasan Vedantham, Lucas Struycken) from lecture slides of Dr Struycken
+
 see in a cardiac arrhythmia or another pathology.
 
 Deviations in the waveform can signal various issues. For instance, an ST segment elevation (a raise between the ǪRS complex and T wave) is a classic
@@ -170,6 +174,8 @@ sign of an acute myocardial infarction (heart attack). Extra P waves or missing 
 Table of different cardiac issues detected by eceg
 
 ![Common ECG patterns of cardiac arrhythmias](./images/img016_common_cardiac_arrhythmias_ecg.jpg)
+
+Source From: ( university of Arizona BSM441 Fall 2025 ( Russell Witte, Srinivasan Vedantham, Lucas Struycken) from lecture slides of Dr Struycken
 
 **Uses and Limitations of ECG:** The ECG is a fundamental tool in both clinical and research settings for monitoring heart health. It is noninvasive and inexpensive, making it ideal for initial evaluations (e.g. in emergency rooms or routine checkups). Continuous ECG monitoring is standard in many hospital settings for patients with cardiac risk. However, it’s important to recognize its limitations. The ECG provides an indirect picture of the heart’s electrical activity and can sometimes miss or misidentify conditions. For example, criteria for detecting **left ventricular hypertrophy (LVH)** (thickening of the heart’s left ventricle) on ECG have **high**
 
