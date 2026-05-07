@@ -1,7 +1,8 @@
 # Assembly of ECG and BioZ Brick
 
-<a href="./assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank">
-<img src="./assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 600px;">
+<a href="../assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" target="_blank">
+  <img src="../assets/pictures/ECG_BIOZ_Front_Closed_without_Plugins.jpg" style="width: 600px;">
+</a>
 
 ## Soldering
 
@@ -37,10 +38,9 @@ There are many configurations we can select. We can operate the board to measure
 
 ### Jumpers
 
-<a href="./Design.svg" target="_blank">
-  <img src="./Design.svg" style="width: 500px;">
+<a href="../assets/Jumpers.jpg" target="_blank">
+  <img src="../assets/Jumpers.jpg" style="width: 500px;">
 </a>
-
 
 There are 4 sets of jumper:
 
@@ -150,10 +150,10 @@ Configuration          | $ECG_P$ to $ECG_N$ | $DRV_N$ to $BI_N$ | $DRV_P$ to $BI
 - [Thing Plus C Pinout](https://cdn.sparkfun.com/assets/3/9/5/f/e/SparkFun_Thing_Plus_ESP32_WROOM_C_graphical_datasheet2.pdf)
 - [ESP32 S3 Pinout](https://learn.adafruit.com/assets/110811)
 
-<a href="./assets/ThingPlusC_PinOut.png" target="_blank"> 
-  <img src="./assets/ThingPlusC_PinOut.png" style="width: 500px;">
+<a href="../assets/ThingPlusC_PinOut.png" target="_blank"> 
+  <img src="../assets/ThingPlusC_PinOut.png" style="width: 500px;">
 </a>
 
-<a href="./assets/adafruit_products_Adafruit_Feather_ESP32-S3_Pinout.png" target="_blank">
-  <img src="./assets/adafruit_products_Adafruit_Feather_ESP32-S3_Pinout.png" style="width: 500px;">
+<a href="../assets/adafruit_products_Adafruit_Feather_ESP32-S3_Pinout.png" target="_blank">
+  <img src="../assets/adafruit_products_Adafruit_Feather_ESP32-S3_Pinout.png" style="width: 500px;">
 </a>
